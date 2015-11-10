@@ -9,6 +9,7 @@ Description: Package provides rna-seq datasets from The Cancer Genome
         http://gdac.broadinstitute.org/. Rna-seq data format is
         explained here
         https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+        Data source is illumina hiseq Level 3 RSEM normalized expression data.
 License: GPL-2
 LazyData: TRUE
 Repository: Bioconductor
